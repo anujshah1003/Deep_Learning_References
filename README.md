@@ -24,3 +24,6 @@ https://huggingface.co/blog/deep-rl-intro
 ### Stable Difussion
 https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html
 
+### VAE
+Jensen inequality: https://www.statlect.com/fundamentals-of-probability/Jensen-inequality
+
