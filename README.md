@@ -20,3 +20,7 @@ https://www.deeplearning.ai/resources/natural-language-processing/
 ## Reinforcemnent Learning
 https://huggingface.co/blog/deep-rl-intro
 
+## Generative Model
+### Stable Difussion
+https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html
+
