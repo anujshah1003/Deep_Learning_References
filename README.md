@@ -25,5 +25,7 @@ https://huggingface.co/blog/deep-rl-intro
 https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html
 
 ### VAE
-Jensen inequality: https://www.statlect.com/fundamentals-of-probability/Jensen-inequality
+Jensen inequality: 
+* https://www.statlect.com/fundamentals-of-probability/Jensen-inequality
+* https://www.probabilitycourse.com/chapter6/6_2_5_jensen's_inequality.php
 
