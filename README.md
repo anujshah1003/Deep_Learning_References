@@ -29,3 +29,6 @@ Jensen inequality:
 * https://www.statlect.com/fundamentals-of-probability/Jensen-inequality
 * https://www.probabilitycourse.com/chapter6/6_2_5_jensen's_inequality.php
 
+VAE Loss
+* https://atcold.github.io/pytorch-Deep-Learning/en/week08/08-3/
+
