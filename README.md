@@ -36,3 +36,6 @@ VAE Loss
 * https://amaarora.github.io/2020/08/09/groupnorm.html
 * https://wandb.ai/wandb_fc/GroupNorm/reports/Group-Normalization-in-Pytorch-With-Examples---VmlldzoxMzU0MzMy
 
+## Self Attention
+### Positional encoding
+* https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
