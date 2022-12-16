@@ -32,3 +32,6 @@ Jensen inequality:
 VAE Loss
 * https://atcold.github.io/pytorch-Deep-Learning/en/week08/08-3/
 
+## Group Normalization
+* https://amaarora.github.io/2020/08/09/groupnorm.html
+
