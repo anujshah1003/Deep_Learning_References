@@ -1,5 +1,5 @@
-# Deep_Learning_2.0
-References for learning about various deep learning networ and approaches
+# Deep_Learning_References
+References for learning about various deep learning network and approaches
 
 ## Memory Augmented Neural Networks
 
